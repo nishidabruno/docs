@@ -22,10 +22,15 @@
             ]
           },
           {
+            "group": "Drafts",
+            "pages": [
+              "drafts"
+            ]
+          },
+          {
             "group": "Blocks",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "blocks"
             ]
           },
           {
