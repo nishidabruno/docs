@@ -78,7 +78,7 @@
     "primary": {
       "type": "button",
       "label": "Go to app",
-      "href": "https://canvasit.design"
+      "href": "https://canvasit.design/drafts"
     }
   },
   "contextual": {
