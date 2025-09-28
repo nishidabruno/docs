@@ -9,68 +9,60 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index"
-            ]
-          },
-          {
-            "group": "Drafts",
-            "pages": [
-              "drafts-overview"
-            ]
-          },
-          {
-            "group": "Blocks",
-            "pages": [
-              "blocks/blocks-overview",
-              "blocks/text",
-              "blocks/image",
-              "blocks/reference"
-            ]
-          },
-          {
-            "group": "Models",
-            "pages": [
-              "models/models-overview",
-              "models/text",
-              "models/image"
-            ]
-          }
-        ]
-      }
-    ],
     "languages": [
       {
         "language": "en",
-        "groups": [
+        "tabs": [
           {
-            "group": "Getting started",
-            "pages": ["en/overview", "en/quickstart", "en/development"]
+            "tab": "Guides",
+            "groups": [
+              {
+                "group": "Getting started",
+                "pages": ["en/index"]
+              },
+              {
+                "group": "Drafts",
+                "pages": ["en/drafts-overview"]
+              },
+              {
+                "group": "Blocks",
+                "pages": [
+                  "en/blocks/overview",
+                  "en/blocks/text",
+                  "en/blocks/image",
+                  "en/blocks/reference"
+                ]
+              },
+              {
+                "group": "Models",
+                "pages": [
+                  "en/models/overview",
+                  "en/models/text",
+                  "en/models/image"
+                ]
+              }
+            ]
           }
         ]
       },
       {
         "language": "jp",
-        "groups": [
+        "tabs": [
           {
-            "group": "Getting started",
-            "pages": ["jp/overview", "jp/quickstart", "jp/development"]
+            "tab": "ガイド",
+            "groups": [
+              {
+                "group": "🏗️",
+                "pages": ["jp/index"]
+              }             
+            ]
           }
         ]
       }
-    ],
-    "styling": {
-      "eyebrows": "section"
-    },
-    "global": {
-      "anchors": []
-    }
+    ]
+  },
+  "global": {
+    "anchors": []
   },
   "logo": {
     "light": "/logo/logo.svg",
