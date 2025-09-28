@@ -16,44 +16,42 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
             "group": "Drafts",
             "pages": [
-              "drafts"
+              "drafts-overview"
             ]
           },
           {
             "group": "Blocks",
             "pages": [
-              "blocks"
+              "blocks/blocks-overview",
+              "blocks/text",
+              "blocks/image",
+              "blocks/reference"
             ]
           },
           {
             "group": "Models",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "models/models-overview",
+              "models/text",
+              "models/image"
             ]
           }
         ]
       }
     ],
     "global": {
-      "anchors": [
-        
-      ]
+      "anchors": []
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg"
   },
   "navbar": {
     "links": [
@@ -69,16 +67,7 @@
     }
   },
   "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+    "options": []
   },
   "footer": {
     "socials": {
