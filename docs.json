@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Canvasit Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#21201C",
+    "light": "#EEEEEC",
+    "dark": "#2A2A28"
   },
   "favicon": "/favicon.svg",
   "navigation": {
