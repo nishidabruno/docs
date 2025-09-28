@@ -45,6 +45,29 @@
         ]
       }
     ],
+    "languages": [
+      {
+        "language": "en",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["en/overview", "en/quickstart", "en/development"]
+          }
+        ]
+      },
+      {
+        "language": "jp",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["jp/overview", "jp/quickstart", "jp/development"]
+          }
+        ]
+      }
+    ],
+    "styling": {
+      "eyebrows": "section"
+    },
     "global": {
       "anchors": []
     }
